@@ -37,7 +37,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=\\Mac\Home\Documents\Altium library\PCB\Sheet1.SchDoc
+DocumentPath=Sheet1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -88,7 +88,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RFEMWIRL
 
 [Document4]
-DocumentPath=\\Mac\Home\Documents\Altium library\AS3933\AS3933.SchLib
+DocumentPath=Altium library\AS3933\AS3933.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -102,10 +102,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PBWGPLFQ
+DocumentUniqueId=
 
 [Document5]
-DocumentPath=\\Mac\Home\Documents\Altium library\AS3933\AS3933.PcbLib
+DocumentPath=Altium library\AS3933\AS3933.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -119,10 +119,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UNRLNXIS
+DocumentUniqueId=
 
 [Document6]
-DocumentPath=\\Mac\Home\Documents\Altium library\Header Strip 2.54\Pin Headers TH.PcbLib
+DocumentPath=Altium library\Cap SMD\capacitor_murata_0805\capacitor_murata_0805$.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -136,10 +136,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CCXUIOAY
+DocumentUniqueId=
 
 [Document7]
-DocumentPath=\\Mac\Home\Documents\Altium library\STM32 L1\STMicroelectronics STM32 L1.PcbLib
+DocumentPath=Altium library\Cap SMD\capacitor_murata_0805\capacitor_murata_0805$.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -153,10 +153,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YFXCUAKR
+DocumentUniqueId=
 
 [Document8]
-DocumentPath=\\Mac\Home\Documents\Altium library\STM32 L1\STMicroelectronics STM32 L1.SchLib
+DocumentPath=Altium library\CAS143-47\CAS143-47.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -170,10 +170,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IOBHXPWT
+DocumentUniqueId=
 
 [Document9]
-DocumentPath=\\Mac\Home\Documents\Altium library\TMP75C\TMP75C.PcbLib
+DocumentPath=Altium library\CAS143-47\CAS143-47.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -187,10 +187,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IBJMCAPA
+DocumentUniqueId=
 
 [Document10]
-DocumentPath=\\Mac\Home\Documents\Altium library\TMP75C\TMP75C.SchLib
+DocumentPath=Altium library\Res SMD\Panasonic_ERJ_0805\Panasonic_ERJ_0805.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -204,10 +204,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ULLSDQQG
+DocumentUniqueId=
 
 [Document11]
-DocumentPath=\\Mac\Home\Documents\Altium library\Cap SMD\capacitor_murata_0805.IntLib
+DocumentPath=Altium library\Res SMD\Panasonic_ERJ_0805\Panasonic_ERJ_0805.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -224,7 +224,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document12]
-DocumentPath=\\Mac\Home\Documents\Altium library\Res SMD\Panasonic_ERJ_0805.IntLib
+DocumentPath=Altium library\STM32 L1\STMicroelectronics STM32 L1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -241,7 +241,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document13]
-DocumentPath=\\Mac\Home\Documents\Altium library\CAS143-47\CAS143-47.PcbLib
+DocumentPath=Altium library\STM32 L1\STMicroelectronics STM32 L1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -258,7 +258,24 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document14]
-DocumentPath=\\Mac\Home\Documents\Altium library\CAS143-47\CAS143-47.SchLib
+DocumentPath=Altium library\TMP75C\TMP75C.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document15]
+DocumentPath=Altium library\TMP75C\TMP75C.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
