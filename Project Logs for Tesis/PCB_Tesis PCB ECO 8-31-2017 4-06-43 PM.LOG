@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=R4 Old Footprint=AXIAL-0.4 New Footprint=SMD-0805-RES
+Change Component Footprint: Designator=C10 Old Footprint=CAPPR2-5X11 New Footprint=SMD-0805C
+Change Component Footprint: Designator=CONN1 Old Footprint=MHDR1X2 New Footprint=1x2x2.54 Pin Header TH V
+Change component parameters: Designator = "R4"; Footprint = "SMD-0805-RES"; UniqueID = "\EPROVBBX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "60.4"; VariantName = "[No Variations]"
