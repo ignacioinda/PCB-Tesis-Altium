@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=LF1P Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=LF2P Pin=C3-2
+Removed Pin From Net: NetName=LF3P Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=LF1P Pin=R1-1
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=LF2P Pin=R2-1
+Removed Pin From Net: NetName=GND Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=LF3P Pin=R3-2
+Removed Member From Class: ClassName=AS3933 Member=C7
+Removed Member From Class: ClassName=AS3933 Member=C8
+Removed Member From Class: ClassName=AS3933 Member=C9
+Removed Member From Class: ClassName=AS3933 Member=R1
+Removed Member From Class: ClassName=AS3933 Member=R2
+Removed Member From Class: ClassName=AS3933 Member=R3
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=C4 NewDesignator=C2
+Change Component Designator: OldDesignator=C5 NewDesignator=C3
+Change Component Designator: OldDesignator=C6 NewDesignator=C4
+Change Component Designator: OldDesignator=C7 NewDesignator=C5
+Change Component Designator: OldDesignator=C9 NewDesignator=C6
+Change Component Designator: OldDesignator=C10 NewDesignator=C7
+Change Component Designator: OldDesignator=C11 NewDesignator=C8
+Change Component Designator: OldDesignator=C12 NewDesignator=C9
+Change Component Designator: OldDesignator=C13 NewDesignator=C10
+Change Component Designator: OldDesignator=C14 NewDesignator=C11
+Change Component Designator: OldDesignator=C15 NewDesignator=C12
+Change Component Designator: OldDesignator=C16 NewDesignator=C13
+Change Component Designator: OldDesignator=C17 NewDesignator=C14
+Change Component Designator: OldDesignator=C18 NewDesignator=C15
+Change Component Designator: OldDesignator=CONN1 NewDesignator=CONN4
+Change Component Designator: OldDesignator=CONN2 NewDesignator=CONN1
+Change Component Designator: OldDesignator=CONN3 NewDesignator=CONN2
+Change Component Designator: OldDesignator=CONN4 NewDesignator=CONN3
+Change Component Designator: OldDesignator=R4 NewDesignator=R1
+Change Component Designator: OldDesignator=R5 NewDesignator=R2
+Change Component Designator: OldDesignator=R6 NewDesignator=R3
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetR1_1

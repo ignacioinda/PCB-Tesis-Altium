@@ -1,0 +1,17 @@
+Removed Member From Class: ClassName=STM32L152 Member=C2
+Removed Member From Class: ClassName=NRF24l01 Member=C5
+Removed Member From Class: ClassName=STM32L152 Member=C5
+Added Component: Designator=CONN3(1x2x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=PC10 Pin=CONN3-1
+Added Pin To Net: NetName=PC11 Pin=CONN3-2
+Added Member To Class: ClassName=AS3933 Member=Component C5 22pF
+Added Member To Class: ClassName=AS3933 Member=Component C6 220pF
+Added Member To Class: ClassName=NRF24l01 Member=Component C7 10uf
+Added Member To Class: ClassName=STM32L152 Member=Component C13 0.1uF
+Added Member To Class: ClassName=STM32L152 Member=Component C14 1uF
+Added Member To Class: ClassName=STM32L152 Member=Component C15 0.1uF
+Added Member To Class: ClassName=Top Sheet Member=Component CONN3 USART
+Added Member To Class: ClassName=LM334 Member=Component R1 Res1
+Added Member To Class: ClassName=STM32L152 Member=Component R2 510
+Added Member To Class: ClassName=STM32L152 Member=Component R3 510

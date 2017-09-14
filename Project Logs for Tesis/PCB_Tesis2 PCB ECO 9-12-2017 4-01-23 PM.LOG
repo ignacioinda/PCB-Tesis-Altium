@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=NRF24l01 Member=C5
+Added Member To Class: ClassName=AS3933 Member=Component C5 22pF
+Added Member To Class: ClassName=AS3933 Member=Component C6 220pF
+Added Member To Class: ClassName=NRF24l01 Member=Component C7 10uf
+Added Member To Class: ClassName=STM32L152 Member=Component C8 0.1uF
+Added Member To Class: ClassName=LM334 Member=Component R1 Res1
+Added Member To Class: ClassName=STM32L152 Member=Component R2 510
+Added Member To Class: ClassName=STM32L152 Member=Component R3 510

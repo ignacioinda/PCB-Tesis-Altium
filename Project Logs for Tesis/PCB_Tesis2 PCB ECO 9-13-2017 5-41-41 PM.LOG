@@ -1,0 +1,5 @@
+Added Component: Designator=CONN5(1x2x2.54 Pin Header TH V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=CONN5-1
+Added Pin To Net: NetName=GND Pin=CONN5-2
+Added Member To Class: ClassName=Top Sheet Member=Component CONN5 BATERY
